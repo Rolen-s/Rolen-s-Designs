@@ -1,0 +1,86 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgba(105, 105, 105, 0.388);
+    background-image: url(IMAGES/Modern\ Black\ Food\ Website\ Facebook\ Cover.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header {
+    text-align: center;
+    margin-top: 0;
+}
+.logo img {
+    width: 90px;
+    height: auto;
+    margin-top: 2px;
+}
+nav {
+    background-color: rgba(255, 0, 0, 0.4);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer {
+    background-color: rgba(152, 24, 164, 0.473);
+    text-align: center;
+    margin-bottom: 0;
+
+}
+header h2 {
+    font-size: 20px;
+    color: orange;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: -20px;
+
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer p {
+    color: white;
+    font-size: 11px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+}
+footer h4 {
+    font-size: 15px;
+    font-weight: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 0px;
+}
+footer a {
+    padding-top: 70px;
+}
+h3 {
+    font-size: 30px;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: bisque;
+    
+}
+main p {
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
